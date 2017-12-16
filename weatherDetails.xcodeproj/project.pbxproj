@@ -70,8 +70,8 @@
 				2A90425A1FE5134F00AE8BE5 /* Costants.swift */,
 				2A90425C1FE51EB200AE8BE5 /* CurrentWeather.swift */,
 				2A90424A1FE4ED2C00AE8BE5 /* Main.storyboard */,
-				2A90424D1FE4ED2C00AE8BE5 /* Assets.xcassets */,
 				2A90424F1FE4ED2C00AE8BE5 /* LaunchScreen.storyboard */,
+				2A90424D1FE4ED2C00AE8BE5 /* Assets.xcassets */,
 				2A9042521FE4ED2C00AE8BE5 /* Info.plist */,
 			);
 			path = weatherDetails;
